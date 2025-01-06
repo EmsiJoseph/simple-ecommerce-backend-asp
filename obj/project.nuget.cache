@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I2oLaVQ2R/I=",
+  "dgSpecHash": "WVbkIHWf4mY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MCJosephAgbanlog\\Internship Training\\Full Stack Development Internship\\Mc Joseph Agbanlog\\ecommerce\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\MCJosephAgbanlog\\Documents\\Github\\simple-ecommerce-backend-asp\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MCJosephAgbanlog\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MCJosephAgbanlog\\.nuget\\packages\\azure.data.appconfiguration\\1.4.1\\azure.data.appconfiguration.1.4.1.nupkg.sha512",
